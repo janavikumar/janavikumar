@@ -1,4 +1,4 @@
-## Data Journalism for Culture & Policy ## 
+## 🗞️🧮 Data Journalism for Culture & Policy 🧮🗞️## 
 
 <!--
 **janavikumar/janavikumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
